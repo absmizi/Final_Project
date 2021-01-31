@@ -31,7 +31,7 @@ Project tools:
 	
 9.	Images and Icons
 
-10.	Responsive
+10.	Editor: Sublime Text, Visual Studio Code
 
-11.	Editor: Sublime Text, Visual Studio Code
+11.	Responsive
 
