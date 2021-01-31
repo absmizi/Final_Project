@@ -28,8 +28,7 @@ Project tools:
 7. 	Slick-Slider (slick_slider.js) 
 	https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
 	
-8.  	Fonts: https://fonts.googleapis.com/
-	Raleway Fonts: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+8.	Fonts: Raleway - Google Fonts
 	
 9.	Images and Icons
 
