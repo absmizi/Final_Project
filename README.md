@@ -13,7 +13,7 @@ Project tools:
 		Libraries: https://code.jquery.com/jquery-1.11.0.min.js
 		https://code.jquery.com/jquery-migrate-1.2.1.min.js
 						
-5.	Google Map: https://maps.google.com/maps?q=Domino's%20Pizza%20Kolkata%20700027&t=&z=13&ie=UTF8&iwloc=&output=embed
+5.	Google Map: https://maps.google.com/
 
 6. 	Opens Street Map: https://www.openstreetmap.org/copyright
 	
