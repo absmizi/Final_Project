@@ -9,6 +9,8 @@ Karlsruhe University of Applied Sciences
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png"><img src="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png" style="max-width:100%;"></a></p>
 
+ View Demo at <a href="https://absmizi.github.io/Final_Project/">Final Project</a>
+
 Project tools:
 
 1. 	HTML (index.html)
