@@ -19,10 +19,10 @@ Project tools:
 	
 7. 	Slick-Slider (slick_slider.js) 
 	https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
-
+	
 8.  	Fonts: https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,400;0,700;1,400&display=swap, 
-		Raleway Fonts: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-
+	Raleway Fonts: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+	
 9.	Images and Icons
 
 10.	Responsive
