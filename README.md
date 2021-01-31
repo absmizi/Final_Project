@@ -1,5 +1,13 @@
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png"><img src="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png" style="max-width:100%;"></a></p>
+Final_Course_Project_Siddique_68225
+Name: Abubakar Siddique;
+Matriculation Number: 68225;
+Email: absmizi@live.com;
+HsKA Webmail:siab1012@hs-karlsruhe.de;
+Instructor: Sybil Adams
+Hochschule Karlsruhe – Technik und Wirtschaft
+Karlsruhe University of Applied Sciences
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png"><img src="https://raw.githubusercontent.com/absmizi/Final_Project/main/Website_Demo.png" style="max-width:100%;"></a></p>
 
 Project tools:
 
@@ -20,7 +28,7 @@ Project tools:
 7. 	Slick-Slider (slick_slider.js) 
 	https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
 	
-8.  	Fonts: https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,400;0,700;1,400&display=swap, 
+8.  	Fonts: https://fonts.googleapis.com/
 	Raleway Fonts: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 	
 9.	Images and Icons
@@ -29,10 +37,3 @@ Project tools:
 
 11.	Editor: Sublime Text, Visual Studio Code
 
-
-Final_Course_Project_Siddique_68225
-Name: Abubakar Siddique;
-Matriculation Number: 68225;
-Email: absmizi@live.com;
-HsKA Webmail:siab1012@hs-karlsruhe.de;
-Instructor: Sybil Adams 
