@@ -14,8 +14,7 @@ Project tools:
 1. 	HTML (index.html)
 2.	CSS (style.css,map_style.css)
 3.	JavaScript (map.js, outlets.js, slick_slider.js)
-		Libraries:https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
-		https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
+		Libraries:https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
 
 4.	jQuery (slick_slider.js)
 		Libraries: https://code.jquery.com/jquery-1.11.0.min.js
