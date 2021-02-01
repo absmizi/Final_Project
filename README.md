@@ -39,3 +39,5 @@ Project tools:
 
 11.	Responsive
 
+12.	Maintanance: GitHub
+
